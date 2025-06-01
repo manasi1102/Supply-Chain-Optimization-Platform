@@ -78,7 +78,7 @@ Supply chains are complex, messy, and sensitive to delay, cost, and demand fluct
 
 Explore the full interactive dashboard on Tableau Public:
 
-👉 [View Dashboard on Tableau Public]([https://public.tableau.com/app/profile/YOUR_USERNAME/viz/YOUR_DASHBOARD_NAME](https://public.tableau.com/views/SupplyChainOptimizationPlatform/VendorPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/views/SupplyChainOptimizationPlatform/VendorPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
